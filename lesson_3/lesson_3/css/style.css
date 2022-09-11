@@ -1,0 +1,48 @@
+div {
+    color: rgb(73, 73, 73);
+}
+
+div.info {
+    color: rgb(148, 19, 19);
+
+}
+
+.block.main-description {
+    color: rgb(56, 38, 98);
+}
+
+.block h2 {
+    color: green;
+}
+
+#characteristics h3 {
+    color: rgb(77, 77, 77);
+}
+
+#sizes {
+    color: brown;
+}
+
+span {
+    color: rgb(255, 51, 0);
+}
+
+li {
+    color: rgb(77, 77, 77);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: rgb(56, 38, 98);
+}
+
+.link a {
+    color: rgb(43, 226, 208);
+}
+
+#security>p {
+    color: rgb(9, 84, 84);
+}
